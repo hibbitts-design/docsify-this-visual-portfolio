@@ -1,5 +1,7 @@
 # 🛬 **Poster design**
 
+Tags &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #eedfda; --badge-text-color: #43291f;'> Graphic design</span> 
+
 ## **The idea**
 
 ![Poster design](images/poster-design.png)

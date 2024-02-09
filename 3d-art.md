@@ -1,5 +1,7 @@
 # 🖼️ **3D Art**
 
+Tags &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> 3D</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> Blender</span> 
+
 ## **The idea**
 
 ![3D Art](images/3d-art.png ':size=80%')

@@ -1,5 +1,7 @@
 # 🎨 **Website design**
 
+Tags &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
+
 ## **The idea**
 
 ![Website redesign](images/website-redesign.png ':size=80%')
